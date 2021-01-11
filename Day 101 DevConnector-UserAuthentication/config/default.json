@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://guarmo:guarmo@cluster0.tape1.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubToken": "25d734ce6d2a630ae1c2d969977bff0d2b322833"
+}
