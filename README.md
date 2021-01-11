@@ -6,6 +6,6 @@
 
 **Today's Progress**: Impemented User Authentication to DevConnector. 
 
-**Thoughts:** I start getting comfortable using Redux and its structure. I find fascinating how front and back-end interract with each other.
+**Thoughts:** I start getting comfortable using Redux and its structure. I find it fascinating how front and back-end interact with each other.
 
 **Link to work:** [DevConnector - User Auth](https://bit.ly/3i5Ra1y)
