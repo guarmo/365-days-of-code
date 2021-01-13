@@ -2,7 +2,7 @@
 
 # 365 Days Of Code - Log
 
-### Day 1: January 11, 2021
+### Day 101: January 11, 2021
 
 **Today's Progress**: Impemented User Authentication to DevConnector. 
 
@@ -10,10 +10,18 @@
 
 **Link to work:** [DevConnector - User Auth](https://bit.ly/3i5Ra1y)
 
-### Day 2: January 12, 2021
+### Day 102: January 12, 2021
 
 **Today's Progress**: Created the Profile functionalities & started with the dashboard. 
 
 **Thoughts:** 
 
-**Link to work:** [DevConnector - Profile](https://bit.ly/2K6Y1ej)
+**Link to work:** [DevConnector - Dashboard](https://bit.ly/2K6Y1ej)
+
+### Day 103: January 13, 2021
+
+**Today's Progress**: Created profile action, edit profile, add/list/delete education & experiences. 
+
+**Thoughts:** 
+
+**Link to work:** [DevConnector - Profile Managment](https://bit.ly/2MRRnJU)
