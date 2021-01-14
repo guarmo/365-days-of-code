@@ -25,3 +25,11 @@
 **Thoughts:** 
 
 **Link to work:** [DevConnector - Profile Managment](https://bit.ly/2MRRnJU)
+
+### Day 104: January 14, 2021
+
+**Today's Progress**: Worked on DevConnector: Profile component display.
+
+**Thoughts:** 
+
+**Link to work:** [DevConnector - Profile Display](https://bit.ly/3ieRNpf)
