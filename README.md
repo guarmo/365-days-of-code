@@ -33,3 +33,11 @@
 **Thoughts:** 
 
 **Link to work:** [DevConnector - Profile Display](https://bit.ly/3ieRNpf)
+
+### Day 105: January 16, 2021
+
+**Today's Progress**: Worked on DevConnector: Completed Profile display. Added Posts, like and comments functionalites.
+
+**Thoughts:** 
+
+**Link to work:** [DevConnector - Posts&Comments](https://bit.ly/3oR6r8F)
