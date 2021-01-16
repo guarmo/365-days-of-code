@@ -36,7 +36,7 @@
 
 ### Day 105: January 16, 2021
 
-**Today's Progress**: Worked on DevConnector: Completed Profile display. Added Posts, like and comments functionalites.
+**Today's Progress**: Worked on DevConnector: Completed Profile display. Added Posts, likes, and comments functionalities.
 
 **Thoughts:** 
 
