@@ -41,3 +41,11 @@
 **Thoughts:** 
 
 **Link to work:** [DevConnector - Posts&Comments](https://bit.ly/3oR6r8F)
+
+### Day 106: January 17, 2021
+
+**Today's Progress**: Completed DevConnector! 
+
+**Thoughts:** It's been a great course based project, I got much more confident with the MERN stack with it!
+
+**Link to work:** [DevConnector - Final](https://bit.ly/3sBwmDF)
