@@ -1,4 +1,4 @@
-#Daily Updates
+#Daily Updates - Previously 100DaysOfCode @ https://github.com/guarmo/100-days-of-code
 
 # 365 Days Of Code - Log
 
