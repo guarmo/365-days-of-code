@@ -49,3 +49,11 @@
 **Thoughts:** It's been a great course based project, I got much more confident with the MERN stack with it!
 
 **Link to work:** [DevConnector - Final](https://bit.ly/3sBwmDF)
+
+### Day 107: January 18, 2021
+
+**Today's Progress**: Started a new fullstack code-along project: Contact Keeper.
+
+**Thoughts:** Reiterated over recently learned back-end practices. Finished building the API.
+
+**Link to work:** [ContactKeeper - Backend](https://bit.ly/3nTaUqo)
