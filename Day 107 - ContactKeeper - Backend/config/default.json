@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://guarmo:guarmo@cluster0.lmg30.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
