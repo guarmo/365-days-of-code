@@ -1,8 +1,6 @@
-# Daily Updates 
+# Daily Updates - 365 Days Of Code
 
 ## Previous logs @ [100DaysOfCode](https://github.com/guarmo/100-days-of-code)
-
-# 365 Days Of Code - Log
 
 ### Day 101: January 11, 2021
 
