@@ -57,3 +57,11 @@
 **Thoughts:** Reiterated over recently learned back-end practices. Finished building the API.
 
 **Link to work:** [ContactKeeper - Backend](https://bit.ly/3nTaUqo)
+
+### Day 108: January 19, 2021
+
+**Today's Progress**: Worked on building the client setup and the Contact UI.
+
+**Thoughts:** 
+
+**Link to work:** [ContactKeeper - Client Setup & Contact UI](https://bit.ly/3izLMUA)
