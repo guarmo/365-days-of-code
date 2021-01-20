@@ -65,3 +65,11 @@
 **Thoughts:** 
 
 **Link to work:** [ContactKeeper - Client Setup & Contact UI](https://bit.ly/3izLMUA)
+
+### Day 109: January 20, 2021
+
+**Today's Progress**: Implemented Authentication & Contacts API. Deployed to heroku. 
+
+**Thoughts:** ContactKeeper completed! 
+
+**Link to work:** [Live Demo](https://bit.ly/360cX5J) - [Code](https://bit.ly/3sEtmXg)
