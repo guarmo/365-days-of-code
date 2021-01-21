@@ -80,4 +80,4 @@
 
 **Thoughts:** Completed UI with Materialize CSS. Learned how to use typicode JSON Server fake API. Recap how to implement Redux in React apps.
 
-**Link to work:** [ITLogger - Source](https://bit.ly/2LTyshF)
+**Link to work:** [ITLogger - Source](https://bit.ly/392JWbu)
