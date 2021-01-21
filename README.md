@@ -73,3 +73,11 @@
 **Thoughts:** ContactKeeper completed! 
 
 **Link to work:** [Live Demo](https://bit.ly/360cX5J) - [Code](https://bit.ly/3sEtmXg)
+
+### Day 110: January 21, 2021
+
+**Today's Progress**: Started working on IT Logger. 
+
+**Thoughts:** Completed UI with Materialize CSS. Learned how to use typicode JSON Server fake API. Recap how to implement Redux in React apps.
+
+**Link to work:** [ITLogger - Source](https://bit.ly/2LTyshF)
