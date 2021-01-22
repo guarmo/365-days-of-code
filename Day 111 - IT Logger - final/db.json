@@ -1,0 +1,68 @@
+{
+  "logs": [
+    {
+      "message": "fixed 002 hard drive",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-01-22T11:12:27.348Z",
+      "id": 3
+    },
+    {
+      "message": "fixed 012 hard drive",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-01-22T14:37:16.853Z",
+      "id": 4
+    },
+    {
+      "message": "fixed 002 hard drive",
+      "attention": false,
+      "tech": "Armando Guarino",
+      "date": "2021-01-22T16:15:42.760Z",
+      "id": 6
+    },
+    {
+      "message": "fixed 120 hard drive",
+      "attention": true,
+      "tech": "Armando Guarino",
+      "date": "2021-01-22T16:30:32.663Z",
+      "id": 7
+    },
+    {
+      "message": "fixed 011 hard drive",
+      "attention": true,
+      "tech": "Armando Guarino",
+      "date": "2021-01-22T16:54:14.090Z",
+      "id": 8
+    },
+    {
+      "message": "new fixed 002 hard drive",
+      "attention": true,
+      "tech": "Armando Guarino",
+      "date": "2021-01-22T16:55:25.103Z",
+      "id": 9
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Armando",
+      "lastName": "Guarino",
+      "id": 1
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 2
+    },
+    {
+      "firstName": "Sam ",
+      "lastName": "Smith",
+      "id": 3
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Williams",
+      "id": 4
+    }
+  ]
+}
