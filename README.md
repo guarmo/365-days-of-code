@@ -80,4 +80,12 @@
 
 **Thoughts:** Completed UI with Materialize CSS. Learned how to use typicode JSON Server fake API. Recap how to implement Redux in React apps.
 
-**Link to work:** [ITLogger - Source](https://bit.ly/392JWbu)
+**Link to work:** [IT Logger - Source](https://bit.ly/392JWbu)
+
+### Day 111: January 22, 2021
+
+**Today's Progress**: Completed IT Logger! 
+
+**Thoughts:** Implemented CRUD functionalities for Logs and Technician.
+
+**Link to work:** [IT Logger - Source](https://bit.ly/39QKvV4)
