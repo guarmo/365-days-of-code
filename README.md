@@ -89,3 +89,11 @@
 **Thoughts:** Implemented CRUD functionalities for Logs and Technician.
 
 **Link to work:** [IT Logger - Source](https://bit.ly/39QKvV4)
+
+### Day 112: January 24, 2021
+
+**Today's Progress**: This weekend I took some time to review core React concepts and completed the course 'React front to back'.
+
+**Thoughts:** I realized I had not used class based components for so long, I had almost forgot its syntax. 
+
+**Link to work:** [React - Review](https://bit.ly/36az7lT)
