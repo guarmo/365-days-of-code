@@ -97,3 +97,11 @@
 **Thoughts:** I realized I had not used class based components for so long, I had almost forgot its syntax. 
 
 **Link to work:** [React - Review](https://bit.ly/36az7lT)
+
+### Day 113: January 25, 2021
+
+**Today's Progress**: Started working on a solo project: an Image Uploader.
+
+**Thoughts:** Completed the UI, Implemented 'Choose file' and 'Drag & Drop' functionalities using Firebase.
+ 
+**Link to work:** In progress
