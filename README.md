@@ -105,3 +105,19 @@
 **Thoughts:** Completed the UI, Implemented 'Choose file' and 'Drag & Drop' functionalities using Firebase.
  
 **Link to work:** In progress
+
+### Day 114: January 26, 2021
+
+**Today's Progress**: Started working on a solo project: an Image Uploader.
+
+**Thoughts:** Image Uploader completed!
+ 
+**Link to work:** [Live Demo](https://bit.ly/2MqKvmC) - [Code](https://bit.ly/36e1Ia1)
+
+### Day 115: January 27, 2021
+
+**Today's Progress**: Completed MyUnsplash challenge by devchallenges.io!
+
+**Thoughts:** Full-stack project built using React & TailwindCSS for the front-end. MongoDB, Node & ExpressJS for the back.
+ 
+**Link to work:** [Live Demo](https://bit.ly/3t4xFLB) - [Code](https://bit.ly/3t1zIQI)
