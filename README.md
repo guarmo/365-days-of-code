@@ -121,3 +121,11 @@
 **Thoughts:** Full-stack project built using React & TailwindCSS for the front-end. MongoDB, Node & ExpressJS for the back.
  
 **Link to work:** [Live Demo](https://bit.ly/3t4xFLB) - [Code](https://bit.ly/3t1zIQI)
+
+### Day 116: January 28, 2021
+
+**Today's Progress**: Started working on Authentication App, challenge by devchallenges.io!
+
+**Thoughts:** Completed the UI with Tailwind CSS and React. Completed the back-end routes. Partially implemented auth.
+ 
+**Link to work:** [Code](https://bit.ly/3cjgEr3)
