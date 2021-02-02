@@ -1,0 +1,23 @@
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+
+body.light-mode {
+  background-color: #fff;
+  color: #333;
+  transition: background-color 0.3s ease;
+}
+body.dark-mode {
+  background-color: #1a1919;
+  color: #999;
+}
+
+@media screen and (orientation: landscape) and (max-device-width: 700px) {
+  .app {
+    height: initial;
+  }
+  .forms {
+    align-items: initial;
+    height: initial;
+  }
+}
