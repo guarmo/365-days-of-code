@@ -129,3 +129,11 @@
 **Thoughts:** Completed the UI with Tailwind CSS and React. Completed the back-end routes. Partially implemented auth.
  
 **Link to work:** [Code](https://bit.ly/3cjgEr3)
+
+### Day 117: February 2, 2021
+
+**Today's Progress**: Continued working on Authentication App.
+
+**Thoughts:** Refactored to useContext/ useReducer, Learned about PassportJS and Firebase-Auth
+ 
+**Link to work:** [Code](https://bit.ly/2MLtljN)
