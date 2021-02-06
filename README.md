@@ -138,7 +138,7 @@
  
 **Link to work:** [Code](https://bit.ly/2MLtljN)
 
-### Day 118 - Day 119: February 2, 2021
+### Day 118 - Day 119: February 5/6, 2021
 
 **Today's Progress**: Continued working on Authentication App.
 
