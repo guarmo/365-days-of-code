@@ -137,3 +137,11 @@
 **Thoughts:** Refactored to useContext/ useReducer, Learned about PassportJS and Firebase-Auth
  
 **Link to work:** [Code](https://bit.ly/2MLtljN)
+
+### Day 118 - Day 119: February 2, 2021
+
+**Today's Progress**: Continued working on Authentication App.
+
+**Thoughts:** Completed refactored this app a few times. Struggled to create Oauth with PassportJS. I opted to use Firebase and got it finally working. 
+ 
+**Link to work:** [Solution](https://devchallenges.io/solutions/J5GPCq2dpj0BLmivlNIT) - [Demo](https://auth-app-ddcb3.firebaseapp.com/)
