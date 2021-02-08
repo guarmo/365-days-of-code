@@ -145,3 +145,11 @@
 **Thoughts:** Completed refactored this app a few times. Struggled to create Oauth with PassportJS. I opted to use Firebase and got it finally working. 
  
 **Link to work:** [Solution](https://devchallenges.io/solutions/J5GPCq2dpj0BLmivlNIT) - [Demo](https://auth-app-ddcb3.firebaseapp.com/)
+
+### Day 120: February 8, 2021
+
+**Today's Progress**: Started working on Cat Wiki, challenge by devchallenges.io!
+
+**Thoughts:** Completed the UI (fully responsive) with Tailwind CSS and React. Completed the frontend structure.
+ 
+**Link to work:** [Code](https://github.com/guarmo/Daily-Updates/tree/main/Day%20120%20-%20Cat%20Wiki)
