@@ -153,3 +153,11 @@
 **Thoughts:** Completed the UI (fully responsive) with Tailwind CSS and React. Completed the frontend structure.
  
 **Link to work:** [Code](https://github.com/guarmo/Daily-Updates/tree/main/Day%20120%20-%20Cat%20Wiki)
+
+### Day 121: February 9, 2021
+
+**Today's Progress**: Continued working on CatWiki.
+
+**Thoughts:** Started implementing get queried & get images functionalities
+ 
+**Link to work:** 
