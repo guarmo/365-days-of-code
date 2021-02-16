@@ -161,3 +161,11 @@
 **Thoughts:** Started implementing get queried & get images functionalities
  
 **Link to work:** 
+
+### Day 122: February 16, 2021
+
+**Today's Progress**: Completed another challenge from devchallenges.io, CatWiki!
+
+**Thoughts:** Finished building the backend; Implemented addSearched functionality; Fixed responsivness and deployed to Heroku.
+ 
+**Link to work:** [Solution](https://t.co/NbVGZBSH43?amp=1) - [Live Demo](https://t.co/Oi1fIKmP2U?amp=1)
