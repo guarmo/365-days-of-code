@@ -170,6 +170,8 @@
  
 **Link to work:** [Solution](https://t.co/NbVGZBSH43?amp=1) - [Live Demo](https://t.co/Oi1fIKmP2U?amp=1)
 
+### Day 123: February 17, 2021
+
 **Today's Progress**: Started working on a new full-stack challenge: Shoppingify.
 
 **Thoughts:** Completed React-Redux scaffolding; Implemented React-router; Started building the UI (horizontal layout)
