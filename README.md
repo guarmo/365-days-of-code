@@ -178,3 +178,10 @@
  
 **Link to work:** [Code](https://bit.ly/3u51JY1) 
 
+### Day 124: February 18, 2021
+
+**Today's Progress**: Continued working on Shoppingify.
+
+**Thoughts:** Almost)Completed the UI!
+ 
+**Link to work:** [Code](bit.ly/3bnPZHQ) 
