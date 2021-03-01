@@ -178,10 +178,61 @@
  
 **Link to work:** [Code](https://bit.ly/3u51JY1) 
 
-### Day 124: February 18, 2021
+### Day 124: February 19, 2021
 
 **Today's Progress**: Continued working on Shoppingify.
 
 **Thoughts:** Almost)Completed the UI!
  
 **Link to work:** [Code](bit.ly/3bnPZHQ) 
+
+### Day 125: February 20, 2021
+
+**Today's Progress**: Continued working on Shoppingify
+
+**Thoughts:** Implemented 'Shopping lists' and 'Items' actions & reducers; Added CRUD functionalities to the shopping lists
+ 
+**Link to work:**
+
+### Day 126: February 23, 2021
+
+**Today's Progress**: Submitted solo project in preparation for [Chingu](https://chingu.io/) Voyage 28.
+
+**Thoughts:**  I'm so excited to be collaborating with other devs from around the world!
+ 
+**Link to work:**
+
+### Day 127: February 25, 2021
+
+**Today's Progress**: Continued working on Shoppingify.
+
+**Thoughts:**  Definitely one of the most challenging projects I have worked on so far, but I've got to say I'm learning tons through it!
+ 
+**Link to work:**
+
+### Day 128: February 26, 2021
+
+**Today's Progress**: Continued working on Shoppingify.
+
+**Thoughts:** Completed all shopping lists functionalities; Implemented history lists
+ 
+**Link to work:** [Code](https://bit.ly/3uAy8WO)
+
+### Day 129: February 27, 2021
+
+**Today's Progress**: Preparing for [Chingu](https://chingu.io/) Voyage 28
+
+**Thoughts:**: Getting acquainted with Git; Reviewed Scrum and Chingu Agile Methodology; Gathered project ideas
+ 
+**Link to work:**
+
+### Day 130: February 28, 2021
+
+**Today's Progress**: Preparing for [Chingu](https://chingu.io/) Voyage 28
+
+**Thoughts:**: Kept on learning about Git branching through this interactive [platform](https://learngitbranching.js.org/)
+ 
+**Link to work:**
+
+
+
