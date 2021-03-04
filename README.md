@@ -234,5 +234,13 @@
  
 **Link to work:**
 
+### Day 131: March 4, 2021
+
+**Today's Progress**: Completed a new challenge by [DevChallenges](https://devchallenges.io/), Shoppingify! 
+
+**Thoughts:**: Full-stack project built using React, TailwindCSS, Node, Express and MongoDB. 
+ 
+**Link to work:** [Solution]( https://devchallenges.io/solutions/b6sEAt1Cqjgzio2oLK3D) [Live Demo](https://mighty-savannah-28713.herokuapp.com)
+
 
 
