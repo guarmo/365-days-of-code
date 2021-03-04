@@ -240,7 +240,7 @@
 
 **Thoughts:**: Full-stack project built using React, TailwindCSS, Node, Express and MongoDB. 
  
-**Link to work:** [Solution]( https://devchallenges.io/solutions/b6sEAt1Cqjgzio2oLK3D) [Live Demo](https://mighty-savannah-28713.herokuapp.com)
+**Link to work:** [Solution]( https://devchallenges.io/solutions/b6sEAt1Cqjgzio2oLK3D) - [Live Demo](https://mighty-savannah-28713.herokuapp.com)
 
 
 
