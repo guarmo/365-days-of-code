@@ -242,5 +242,21 @@
  
 **Link to work:** [Solution]( https://devchallenges.io/solutions/b6sEAt1Cqjgzio2oLK3D) - [Live Demo](https://mighty-savannah-28713.herokuapp.com)
 
+### Day 132: March 6, 2021
+
+**Today's Progress**: Had a long chat with my teammates at bears-10 for [Chingu](https://chingu.io/) voyage28. We've decided to create a platform that connects developers and charities looking for volunteers.
+
+**Thoughts:**: Very excited to start working on the project!
+ 
+**Link to work:** 
+
+### Day 133: March 7, 2021
+
+**Today's Progress**: Explored the docs and played around with [ChakraUI](https://chakra-ui.com/) a framework we might be using for our project.
+
+**Thoughts:**: I'm glad I might get to use this framework cause its modularity and accessibility are just incredible.
+ 
+**Link to work:** [Code](https://bit.ly/3v2G4QE)
+
 
 
