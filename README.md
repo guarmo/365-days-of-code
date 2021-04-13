@@ -338,7 +338,7 @@
  
 **Link to work:** [Code](https://github.com/guarmo/cicciofarro) - [Live](http://cicciofarro.com)
 
-# At this point, I have officialy landed my first freelance gig and my job hunt has started. I'm lucky enough to be getting a personal coach from [Ayekoo](https://ayekoo.de). It's time to drop #100DaysOfCode and start to #buildinpublic
+### At this point, I have officialy landed my first freelance gig and my job hunt has started. I'm lucky enough to be getting a personal coach from [Ayekoo](https://ayekoo.de). It's time to drop #100DaysOfCode and start to #buildinpublic
 
 
 
