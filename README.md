@@ -258,5 +258,87 @@
  
 **Link to work:** [Code](https://bit.ly/3v2G4QE)
 
+### Day 134: March 9, 2021
+
+**Today's Progress**: Explored the docs and played around with [Next JS](https://nextjs.org) a react framework we'll be using for our project at ChinguCollabs Voyage28.
+
+**Thoughts:**: Also did a  crash course on it.
+ 
+**Link to work:** [Code](https://test-rho-flax.vercel.app)
+
+### Day 135: March 10, 2021
+
+**Today's Progress**: Today I worked on how to use git when collaborating with a team, using serverless functions to make API calls & integrating a Mongo Database within a NextJS app.
+
+**Thoughts:**:
+ 
+**Link to work:** 
+
+### Day 136: March 11, 2021
+
+**Today's Progress**: Had an onboarding session with ZenHub; Set-up schemas, database connection & seeding for devSearcher; Finally started pushing my first features onto the repo
+
+**Thoughts:**: 
+ 
+**Link to work:** [Code](https://github.com/chingu-voyages/v28-bears-team-10)
+
+### Day 137: March 12, 2021
+
+**Today's Progress**: Seeded database; Created rest API routes for devs and charities
+
+**Thoughts:**: 
+ 
+**Link to work:** [Code](https://github.com/chingu-voyages/v28-bears-team-10)
+
+### Day 138: March 13, 2021
+
+**Today's Progress**: Took part for the first time at a ChinguCollabs roundtable!; Started building my personal portfolio with chakra_ui and next.js 
+
+**Thoughts:**: 
+ 
+**Link to work:** 
+
+### Day 139/140: March 18, 2021
+
+**Today's Progress**: Just completed my personal portfolio!
+
+**Thoughts:**: Built with: Nextjs, Chakra UI, React-icons, tsParticles, EmailJS.
+ 
+**Link to work:** [Live](armandoguarino.dev)
+
+### Day 141/142: March 20, 2021
+
+**Today's Progress**: Started working on my first freelance gig!; Defined sprint 2 with my teammates at Voyage28; Joined two ChinguCollabs pair-programming sessions; Joined ChinguCollabs roundtable
+
+**Thoughts:**: 
+ 
+**Link to work:** 
+
+### Day 143/144: March 23, 2021
+
+**Today's Progress**: Worked on my first freelance gig, a music producer's personal page 
+
+**Thoughts:**: Organized resources and ideas; Prototyped with Figma; Built the main scaffolding & basic layout
+ 
+**Link to work:** [Code](https://bit.ly/3fcFudJ)
+
+### Day 145/146: March 30, 2021
+
+**Today's Progress**: My first freelance gig is almost ready to be launched! 
+
+**Thoughts:**: Implemented multi-language functionality; Implemented EmailJS; Embedded SoundCloud & Youtube players
+ 
+**Link to work:** [Code](https://bit.ly/3fcFudJ)
+
+### Day 147: April 2, 2021
+
+**Today's Progress**: Completed and deployed my first freelance gig!
+
+**Thoughts:**: 
+ 
+**Link to work:** [Code](https://github.com/guarmo/cicciofarro) - [Live](http://cicciofarro.com)
+
+# At this point, I have officialy landed my first freelance gig and my job hunt has started. I'm lucky enough to be getting a personal coach from [Ayekoo](https://ayekoo.de). It's time to drop #100DaysOfCode and start to #buildinpublic
+
 
 
